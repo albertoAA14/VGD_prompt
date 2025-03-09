@@ -1,0 +1,9 @@
+char userOption;
+
+int gameScore;
+
+decimal particlesPerMillion;
+
+bool processedCustomer;
+
+Today, I learned about declaring variables in C#. A variable is a container that stores data in memory, allowing its value to change during a program's execution. Unlike hard-coded values (literals), variables make programs more flexible by handling user input, file data, or network information.
